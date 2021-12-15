@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rk2
+rk2.so
+rk2.dylib
+rk2.dll
+rk2.a
+rk2.lib
+rk2-test-*
+*.exe
+*.o
+*.obj
+*.lst

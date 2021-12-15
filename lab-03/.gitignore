@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/lab-03
+lab-03.so
+lab-03.dylib
+lab-03.dll
+lab-03.a
+lab-03.lib
+lab-03-test-*
+*.exe
+*.o
+*.obj
+*.lst
